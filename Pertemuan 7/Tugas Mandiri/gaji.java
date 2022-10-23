@@ -8,7 +8,6 @@ public class gaji {
     private double Tunjangan;
     private int gol;
 
-    double hours;
 
     public gaji(int gol){ //Buat kondisi saat memilih golongan
         this.gol = gol;
